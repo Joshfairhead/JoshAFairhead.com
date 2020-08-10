@@ -2,7 +2,7 @@
   <LayoutHero>
     <template slot="hero">
       <hero-container :bg="heroBG">
-        <h1 class="text-6xl">Hero content</h1>
+        <h1 class="text-6xl">Balancing Natural Chaos</h1>
       </hero-container>
     </template>
 
