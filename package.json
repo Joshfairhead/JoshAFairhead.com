@@ -1,5 +1,5 @@
 {
-  "name": "hackalong-boilerplate",
+  "name": "JoshAFairhead.com",
   "private": true,
   "scripts": {
     "build": "gridsome build",

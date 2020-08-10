@@ -49,7 +49,7 @@
 <script>
 export default {
   metaInfo: {
-    title: "Hero Example !"
+    title: "Home"
   },
 
   data() {
