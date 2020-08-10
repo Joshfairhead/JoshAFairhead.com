@@ -1,11 +1,11 @@
 <template>
-  <header class="header sticky top-0 bg-white mb-5">
-    <div class="h-2 w-full bg-primary-500"></div>
+  <header class="header sticky top-0 bg-black-800 mb-5 opacity-75"> 
+    <!-- <div class="h-2 w-full bg-primary-500"></div> --> 
     <nav class="flex items-center justify-between flex-wrap py-6 container">
       <!-- site title / logo -->
       <div class="flex items-center flex-no-shrink mr-6">
         <strong>
-          <h1 class= text-primary-900> JoshAFairhead </h1> <!-- bump me right a little bit! -->
+          <h1 class= text-primary-500> JoshAFairhead </h1> <!-- bump me right a little bit! -->
         </strong>
       </div>
       <!-- end site title / logo -->
@@ -62,14 +62,14 @@ export default {
 <style lang="scss" scoped>
 nav {
   .nav-toggle {
-    @apply flex items-center px-3 py-2 text-primary-500;
+    @apply flex items-center px-3 py-2 text-primary-100;
     &:hover {
-      @apply text-primary-400;
+      @apply text-primary-500;
     }
   }
   .nav-link {
     display: block;
-    @apply text-primary-900 uppercase py-3 text-right font-bold;
+    @apply text-teal-500 uppercase py-3 text-right font-bold;
     @screen sm {
       @apply flex px-3 py-0 whitespace-no-wrap text-left;
     }
