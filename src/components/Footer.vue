@@ -18,7 +18,7 @@
 
         <li>
           <a
-            href="https://www.youtube.com/channel/UCD3nTmq-AC1H7T5J7cRwoVA/featured"
+            href="https://www.youtube.com/channel/UCf6H4JCSEpXTtCBOTphga0w"
             target="_blank"
             class="text-white hover:text-gray-400"
           >
@@ -33,7 +33,7 @@
 
         <li>
           <a
-            href="https://github.com/hack-along"
+            href="https://github.com/Joshfairhead"
             target="_blank"
             class="text-white hover:text-gray-400"
           >
@@ -48,7 +48,7 @@
 
         <li>
           <a
-            href="https://twitter.com/hackalongio"
+            href="https://twitter.com/JoshAFairhead"
             target="_blank"
             class="text-white hover:text-gray-400"
           >
