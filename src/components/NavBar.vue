@@ -5,7 +5,7 @@
       <!-- site title / logo -->
       <div class="flex items-center flex-no-shrink mr-6">
         <strong>
-          <h1> JoshAFairhead </h1>
+          <h1 class= text-primary-900> JoshAFairhead </h1> <!-- bump me right a little bit! -->
         </strong>
       </div>
       <!-- end site title / logo -->
@@ -76,7 +76,7 @@ nav {
     &:hover,
     &:focus,
     &.active--exact {
-      @apply text-accent-500;
+      @apply text-teal-400;
     }
   }
 }
