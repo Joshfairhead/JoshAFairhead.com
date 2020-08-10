@@ -5,9 +5,7 @@
       <!-- site title / logo -->
       <div class="flex items-center flex-no-shrink mr-6">
         <strong>
-          <g-link to="/" :title="$static.metadata.siteName">
-            <g-image src="../../static/hackalonglogo1.png" class="w-40" alt="logo" />
-          </g-link>
+          <h1> JoshAFairhead </h1>
         </strong>
       </div>
       <!-- end site title / logo -->
@@ -28,15 +26,10 @@
         :class="open ? 'block': 'hidden'"
         class="w-full sm:flex sm:items-center sm:w-auto flex-grow sm:flex-grow-0"
       >
-        <a
-          v-if="$route.path === '/example-hero/'"
-          href="#details"
-          v-scroll-to="'#details'"
-          class="nav-link"
-        >Details</a>
-        <g-link v-else to="/example-hero/#details" class="nav-link">Details</g-link>
         <g-link class="nav-link" to="/">Home</g-link>
-        <g-link class="nav-link" to="/example-hero/">Example Hero</g-link>
+        <g-link class="nav-link" to="https://medium.com/@joshafairhead">Blog</g-link>
+        <!-- <g-link class="nav-link" to="/qualities/">Qualities</g-link> -->
+        <!-- <g-link class="nav-link" to="/quantities/">Quantities</g-link> -->
       </div>
       <!-- End navigation Links-->
     </nav>
