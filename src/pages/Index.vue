@@ -6,8 +6,11 @@
       </hero-container>
     </template>
     <div class="flex flex-row bg-white shadow-lg rounded-lg">
-      <div class="flex-none m-10 bg-black-900 rounded-full h-64 w-64"><!--This should be a picture, how to embed images--></div>
-      <!-- Why wont you sit below???
+      <div class="flex-none m-10 bg-black-900 rounded-full h-64 w-64"> 
+        <g-image to="~/assets/img/bg.jpg">bg</g-image>
+      <!--This should be a picture, how to embed images--></div>
+
+      <!-- How can I get this to sit below???
       <div class="flex-col">
           <h3> Friends and Affiliations </h3>
             Hackalong
