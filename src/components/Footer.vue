@@ -60,24 +60,16 @@
             </svg>
           </a>
         </li>
-        <!-- Why does this not convert to the discord icon? its kinda there but not visible I think but only with preserve aspect ratio
+        <!--Maybe too detailed for a small graphic? -->>
         <li>
           <a
-            href="https://twitter.com/JoshAFairhead"
+            href="https://discord.gg/YrBeUQg"
             target="_blank"
             class="text-white hover:text-gray-400"
           >
-            <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
-              width="225.000000pt" height="225.000000pt" viewBox="0 0 225.000000 225.000000"
-              preserveAspectRatio="xMidYMid meet">
-
-              <path
-                d="M435 2016 c-37 -17 -80 -62 -94 -99 -7 -19 -11 -251 -11 -703 0 -734 -2 -701 57 -755 60 -56 37 -54 626 -57 301 -1 547 1 547 5 0 4 -9 40 -20 78 -11 38 -20 74 -20 79 0 4 53 -41 118 -101 137 -126 283 -257 297 -265 15 -9 4 1711 -12 1737 -18 31 -65 73 -96 84 -45 17 -1353 14 -1392 -3z m545 -428 c-68 -29 -190 -88 -190 -91 0 -3 37 8 83 24 186 64 396 58 561 -15 31 -14 56 -23 56 -21 0 8 -108 64 -157 81 -29 10 -53 23 -53 28 0 21 117 -4 190 -41 64 -33 78 -44 97 -83 58 -118 113 -341 113 -458 0 -50 -3 -57 -37 -90 -49 -46 -129 -82 -196 -89 -52 -5 -53 -5 -81 31 -15 21 -26 38 -25 40 2 1 28 12 56 25 29 14 63 35 75 48 22 23 20 23 -42 -6 -95 -44 -172 -61 -281 -61 -109 0 -217 23 -301 66 l-53 26 24 -26 c13 -14 45 -36 70 -48 25 -11 48 -22 50 -24 1 -1 -10 -19 -25 -40 -28 -36 -29 -36 -81 -31 -67 7 -147 43 -196 89 -34 33 -37 40 -37 90 0 121 54 338 114 456 19 37 36 54 77 76 67 37 124 55 174 55 37 0 38 -1 15 -11z"
-                fill-rule="nonzero"
-              />
-            </svg>
+            <svg>
           </a>
-        </li> -->
+        </li>
       </ul>
     </div>
   </footer>
