@@ -7,7 +7,7 @@
     </template>
     <div class="flex flex-row bg-white shadow-lg rounded-lg">
       <div class="flex-none border-solid border-2 border-teal-500 m-10 bg-black-900 overflow-hidden rounded-full h-64 w-64"> 
-        <g-image src="~/assets/img/joshthumbs.jpg">Me</g-image>
+        <g-image src="~/assets/img/joshthumbs.jpg" width="500" height="500" fit="cover">Me</g-image>
       </div>
 
       <!-- How can I get this to sit below???
