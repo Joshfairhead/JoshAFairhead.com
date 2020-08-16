@@ -6,9 +6,9 @@
       </hero-container>
     </template>
     <div class="flex flex-row bg-white shadow-lg rounded-lg">
-      <div class="flex-none m-10 bg-black-900 opacity-50 rounded-full h-64 w-64"> 
-        <g-image src="~/assets/img/bg.jpg">bg</g-image>
-      <!--This should be a picture, how to embed images--></div>
+      <div class="flex-none border-solid border-2 border-teal-500 m-10 bg-black-900 overflow-hidden rounded-full h-64 w-64"> 
+        <g-image src="~/assets/img/joshthumbs.jpg">Me</g-image>
+      </div>
 
       <!-- How can I get this to sit below???
       <div class="flex-col">
