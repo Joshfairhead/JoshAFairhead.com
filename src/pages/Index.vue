@@ -2,7 +2,7 @@
   <LayoutHero>
     <template slot="hero">
       <hero-container :bg="heroBG">
-        <h1 class="text-6xl">Complex viable human</h1>
+        <h1 class="text-6xl">Complex viable human.</h1>
       </hero-container>
     </template>
     <div class="flex flex-row bg-white shadow-lg rounded-lg">
