@@ -27,6 +27,7 @@
         class="w-full sm:flex sm:items-center sm:w-auto flex-grow sm:flex-grow-0"
       >
         <g-link class="nav-link" to="/">Home</g-link>
+        <g-link class="nav-link" to="https://calendar.google.com/calendar/embed?src=joshafairhead%40gmail.com&ctz=Europe%2FRome">Calendar</g-link>
         <g-link class="nav-link" to="https://medium.com/@joshafairhead">Blog</g-link>
         <!-- <g-link class="nav-link" to="/qualities/">Qualities</g-link> -->
         <!-- <g-link class="nav-link" to="/quantities/">Quantities</g-link> -->
