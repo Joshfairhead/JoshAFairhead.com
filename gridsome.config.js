@@ -15,7 +15,15 @@ if (process.env.NODE_ENV === 'production') postcssPlugins.push(purgecss(require(
 
 module.exports = {
   siteName: 'JoshAFairhead',
-  plugins: [],
+  plugins: [
+    { 
+      use: '@gridsome/plugin-google-analytics',
+      options: {
+        id: '2240216597'
+      }
+
+    }
+  ],
   css: {
     loaderOptions: {
       postcss: {
