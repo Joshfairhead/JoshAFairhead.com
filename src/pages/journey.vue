@@ -46,7 +46,7 @@
             <p>At some stage though I'd had enough of Shoreditch serfdom and decided to form my own company with some other technical managers I got to know from around other venues. Things started to look up as I got contracted by my old employer at Bar Nighjar to build their sister venues <a href="https://www.oriolebar.com/">Oriole's</a> stage and sound system, which would be used for live jazz seven days a week. The next bits of luck were other venue comissions for a high end bar/resturant in Monument called <a href="https://www.mber.london/">Mber</a> and another called in Soho called <a href="https://www.barswift.com/">Swift</a>.</p>
             
             <!-- insert pictures here
-            <div class="flex justify-center grid-cols-2 bg-primary-200 rounded-lg p-4 mb-4">
+            <ldiv class="flex justify-center grid-cols-2 bg-primary-200 rounded-lg p-4 mb-4">
               <div> <g-image src="" width="315" height="315" fit="contain">Oriole</g-image> </div>
               <div> <g-image src="" width="315" height="315" fit="contain">Mber</g-image> </div>
               <div> <g-image src="" width="315" height="315" fit="contain">Swift</g-image> </div>
