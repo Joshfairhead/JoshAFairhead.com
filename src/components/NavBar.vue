@@ -28,7 +28,7 @@
       >
         <g-link class="nav-link" to="/">Home</g-link>
         <g-link class="nav-link" to="https://calendar.google.com/calendar/embed?src=joshafairhead%40gmail.com&ctz=Europe%2FRome">Calendar</g-link>
-        <g-link class="nav-link" to="https://notablog.joshafairhead.com">NotABlog</g-link>
+        <g-link class="nav-link" to="https://www.notablog.joshafairhead.com">NotABlog</g-link>
         <!-- <g-link class="nav-link" to="/qualities/">Qualities</g-link> -->
         <!-- <g-link class="nav-link" to="/quantities/">Quantities</g-link> -->
       </div>
