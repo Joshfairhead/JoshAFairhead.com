@@ -20,7 +20,7 @@
             Neon Flea Circus
             RatPark
       </div> -->
-      <div class="flex-1 pt-10 pr-10 pb-10">
+      <div class="flex-1 pt-10 pr-10 pb-10 font-sans">
         <h2 id="About">About me - Sensemaker / Lunatic 🌙</h2>
         <p>Identity... hmmm, tough one to express generically for a website but I'll try! </p>
         <p>As a singular entity I'd consider my thought patterns as integral or non-dual. My inner landscape is often differentiating semantics, exploring the philosophy of language and playing with symbol systems. I consider these to be expressive capacities.</p>
