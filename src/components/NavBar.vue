@@ -33,7 +33,7 @@
       >
         <g-link class="nav-link" to="/">Home</g-link>
         <!-- <g-link class="nav-link" to="https://calendar.google.com/calendar/embed?src=vaq0no7iet9g02imla1gm4btaisepnmo%40import.calendar.google.com&ctz=Europe%2FBerlin">Calendar</g-link> -->
-        <g-link class="nav-link" to="https://www.tothecosmos.com"
+        <g-link class="nav-link" to="https://www.tothecosmos.org"
           >NOTABLOG</g-link
         >
         <!-- <g-link class="nav-link" to="/qualities/">Qualities</g-link> -->
